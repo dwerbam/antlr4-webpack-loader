@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/tianyu/antlr4-webpack-loader#readme",
   "peerDependencies": {
-    "antlr4": "^4.8.0"
+    "antlr4": "^4.9.2"
   },
   "dependencies": {
     "tmp": "^0.0.30",
